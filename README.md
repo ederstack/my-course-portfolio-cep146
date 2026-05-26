@@ -1,11 +1,18 @@
 # my-course-portfolio-cep146
-Portfolio of my work and projects for cep146
+
+Welcome to my academic portfolio for CEP146!
+
 ## About Me
+- Name: Eder Vasquez
+- Major: Computer Programming
+- Year: First Year
+- Favorite Programming Language: C
 
-Name: Eder Vasquez
+## Course Goals
+- [ ] Learn version control with Git and GitHub
+- [ ] Complete all lab assignments
+- [ ] Build a professional portfolio
+- [ ] Collaborate on group projects
 
-Course: CEP146
-
-This repository contains my course projects and assignments.
-
-Add About Me section to README
+## Projects
+*This section will be updated as I complete assignments*
