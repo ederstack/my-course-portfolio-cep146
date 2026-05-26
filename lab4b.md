@@ -1,4 +1,4 @@
-# Lab 4A - Markdown Language Practice
+# Lab 4b - Markdown Language Practice
 
 ## Exercise 1: Basic Introduction
 
